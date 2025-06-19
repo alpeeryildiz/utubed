@@ -1,0 +1,1 @@
+Draw a cat walking but only its skeleton 
